@@ -1,0 +1,59 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-size: 20px;
+}
+#fname,#lname,#address1,#address2,#pin,#state,#country{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+}
+button{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.col-sm-4{
+    background-color: lightcoral;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.container{
+    padding: 0px;
+    margin: 0px;
+}
+.col-sm-8{
+    background-color:lightskyblue;
+    padding: 0px;
+    }
+body{
+    background-color: lightskyblue;
+}
+.h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.row{
+    margin: 0px;
+    padding: 0px;
+}
+th{
+    padding: 16px;
+}
+table{
+    margin-left: 18px;
+    width: 940px;
+}
+td{
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px 5px;
+}
+span{
+    font-style: italic;
+    font-size: 18px;
+    font-weight: lighter;
+}
